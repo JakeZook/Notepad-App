@@ -19,7 +19,9 @@ N/A
 
 ## Usage
 
-Enter in a new note and then hit the save icon in the top right to save it. Clicking on a saved note will then retrieve the note's description."
+Enter a new note and then hit the save icon in the top right to save it. Clicking on a saved note will then retrieve the note's description.
+
+[Deployed Page](https://jakezook-notes-app-131220b8130f.herokuapp.com/)
 
 ## Tests
 
